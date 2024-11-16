@@ -103,9 +103,9 @@ logo:
   enabled: true
   width: 50
   height: 50
-  url: /official-images/logo.png
+  url: /favicon/web-app-manifest-512x512.png
   gravatar: false
-  grayout: true
+  grayout: false
 
 # Customize the favicons.
 # Cactus supports a limited set of the three most important icons:
