@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/probberechts
+projects_url: https://github.com/derecknowayback
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -17,7 +17,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  projects: http://github.com/probberechts
+  projects: https://github.com/derecknowayback
   category: /categories/
 
 
@@ -30,17 +30,15 @@ nav:
 social_links:
   -
     icon: github
-    link: http://github.com/probberechts/cactus-dark
+    link: https://github.com/derecknowayback
   -
     icon: mail
-    label: mastodon.social
-    link: https://mastodon.social/@alice  
+    link: mailto:dereck_yak@foxmail.com
   -
     icon: bilibili
-    link: mailto:name@email.com
+    link: https://space.bilibili.com/398643040
   -
     icon: zhihu
-    label: fosstodon.org
     link: https://fosstodon.org/@alice
 
 # Customize the overview with displaying a tagcloud on the index page.
@@ -84,7 +82,7 @@ copyright:
 error_404:
   enabled: true
   title: "404 Page Not Found"
-  description: "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+  description: "Good fortune follows upon disaster; disaster lurks within good fortune."
 
 
 ##############################################################################
