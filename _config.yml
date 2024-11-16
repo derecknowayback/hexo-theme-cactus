@@ -18,6 +18,7 @@ nav:
   about: /about/
   articles: /archives/
   projects: http://github.com/probberechts
+  category: /categories/
 
 
 # Links to your social media accounts.
@@ -31,26 +32,21 @@ social_links:
     icon: github
     link: http://github.com/probberechts/cactus-dark
   -
-    icon: twitter
-    link: /
-  -
-    icon: facebook
-    link: /
-  -
     icon: mail
+    label: mastodon.social
+    link: https://mastodon.social/@alice  
+  -
+    icon: bilibili
     link: mailto:name@email.com
   -
-    icon: mastodon
-    label: mastodon.social
-    link: https://mastodon.social/@alice
-  -
-    icon: mastodon
+    icon: zhihu
     label: fosstodon.org
     link: https://fosstodon.org/@alice
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
-tags_overview: false
+tags_overview: true
+
 
 # Customize the overview with the most recent blog posts on the index page.
 # Options:
